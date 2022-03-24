@@ -14,8 +14,7 @@
 
 **This is a very interesting and easy to make project. This device will
 detect whether there is any current or not from a quite long range. This
-project is known as \"Wireless Voltage tester\" \"Wireless Voltage
-tester\"**
+project is known as \"Wireless Voltage tester\"
 
 > By following this guide, you will be able to know and make your
 > Wireless Voltage Tester This project guide contains the files necessary
