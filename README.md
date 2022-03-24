@@ -2,7 +2,6 @@
 
 
 
-![](vertopal_9bcaed33e8184cd99a66f9fa6dcf44f2/media/image2.png)
 
 > 
 >
@@ -28,7 +27,7 @@ tester\"**
 
 **Talking about electronics!**
 
-![](vertopal_9bcaed33e8184cd99a66f9fa6dcf44f2/media/image4.png)
+
 
 > After making the circuit diagram I transformed it into a PCB design to
 > produce it, to produce the PCB, I have chosen JLCPCB the best PCB
@@ -82,6 +81,7 @@ have any questions please post them in the comment section below.**
 
 
 ![](vertopal_9bcaed33e8184cd99a66f9fa6dcf44f2/media/image12.png)
+
 ![](vertopal_9bcaed33e8184cd99a66f9fa6dcf44f2/media/image13.png)
 
 
