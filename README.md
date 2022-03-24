@@ -5,10 +5,7 @@
 
 > 
 >
-> **Supplies:**
->
-> .
-
+> 
 ![](vertopal_9bcaed33e8184cd99a66f9fa6dcf44f2/media/image3.png)
 > **Step 1: Story**
 
