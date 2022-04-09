@@ -124,6 +124,6 @@ picture below with the help of Glue gun.
 
 **If you have any questions please post them in the comment section below.**
 
-> New users will also get some coupons while registering at JCLPCB via this blue link.
+> New users will also get some coupons while registering at [JLCPCB](https://jlcpcb.com/IAT)[ ](https://jlcpcb.com/IAT) via this blue link.
 
 
